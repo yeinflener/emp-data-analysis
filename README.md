@@ -1,17 +1,6 @@
-# emp-data-analysis
-Data Analysis on Employee Management System using MySQL and Power BI
-Summary Report – Yein Flener
-1. Introduction
-This report provides insights from an employee management system using MySQL Workbench for
-data extraction and Power BI for visualization. It focuses on key aspects such as
-attendance, compensation, and departmental activities.
-2. Limitations
-Fictional data consists of 30 rows of employees’ information for analytical demonstration only.
-3. Objectives
-•	Extract insights from employee data
-•	Integrate SQL queries with Power BI for effective reporting
-•	Support data-driven decision-making
+# EMPLOYEE MANAGEMENT SYSTEM - DATA ANALYSIS
 
+![parta](https://github.com/user-attachments/assets/37cc98dd-4212-4d1d-9b34-194e76c74198)
 ![part1](https://github.com/user-attachments/assets/6aa9cb35-8946-413d-ae7a-1364f1dadb09)
 ![part2](https://github.com/user-attachments/assets/5177c8b7-c484-447e-81bb-3345b9f3c328)
 ![part4](https://github.com/user-attachments/assets/53fbee48-c84d-4dc4-a458-0059e4f4f71e)
